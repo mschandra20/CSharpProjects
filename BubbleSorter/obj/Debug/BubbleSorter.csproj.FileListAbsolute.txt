@@ -1,0 +1,6 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\Sorter\BubbleSorter\obj\Debug\BubbleSorter.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\Sorter\BubbleSorter\bin\Debug\BubbleSorter.exe.config
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\Sorter\BubbleSorter\bin\Debug\BubbleSorter.exe
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\Sorter\BubbleSorter\bin\Debug\BubbleSorter.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\Sorter\BubbleSorter\obj\Debug\BubbleSorter.exe
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\Sorter\BubbleSorter\obj\Debug\BubbleSorter.pdb
